@@ -3,4 +3,9 @@ Acá trabajamos en GitHub!
 Trabajo Práctico GitHub
 Integrantes:
 Magali Bustos
+<<<<<<< melli023-patch-2
 Sánchez Mariana
+=======
+
+Ornela Baldini
+>>>>>>> main
